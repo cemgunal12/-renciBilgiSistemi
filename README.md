@@ -1,1 +1,1 @@
-# -renciBilgiSistemi
+# ÖgrenciBilgiSistemi
